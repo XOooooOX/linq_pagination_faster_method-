@@ -1,0 +1,6 @@
+@linq_pagination_faster_method_HostAddress = http://localhost:5031
+
+GET {{linq_pagination_faster_method_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
